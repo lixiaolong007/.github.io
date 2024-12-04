@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 'Li-lang的个人博客'
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Li-lang
+language: zh-CN
 timezone: ''
 
 # URL

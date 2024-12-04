@@ -1,0 +1,2 @@
+打包 hexo g
+运行 hexo s
